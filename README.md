@@ -38,10 +38,10 @@ This tool is intended for educational and ethical use only. Please do not use th
 ### 📁 Project Structure
 
 -myTracker/
-│
-├── mytracker.py          # Main script
-├── README.md             # Project readme
-├── requirements.txt      # Python dependencies
+-│
+-├── mytracker.py          # Main script
+-├── README.md             # Project readme
+-├── requirements.txt      # Python dependencies
 
 
 ### 🤝 Contributing
