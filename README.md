@@ -1,5 +1,5 @@
  # myTracker
-## myTracker is a simple and powerful Python-based tool for tracking the geographical location and service provider (SIM card type) of any phone number using publicly available information. It's designed for developers, cybersecurity researchers, and hobbyists interested in understanding telecom data.
+### myTracker is a simple and powerful Python-based tool for tracking the geographical location and service provider (SIM card type) of any phone number using publicly available information. It's designed for developers, cybersecurity researchers, and hobbyists interested in understanding telecom data.
 
 ### Features
 
@@ -52,6 +52,8 @@ Thanks to the creators of the phonenumbers and opencage libraries.
 If you like this project, give it a ⭐ on GitHub!
 
 ### 👤 Author
--Anjali Navgire
--GitHub: Anjali-Navgire
--Email: anjalinavgire3109@gmail.com
+
+- Anjali Navgire
+
+- GitHub: Anjali-Navgire
+
